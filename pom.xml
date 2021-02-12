@@ -7,8 +7,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com:/AndreKrebs/test-maven.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/AndreKrebs/test-maven.git</developerConnection>
+        <connection>scm:git:https://github.com/AndreKrebs/test-maven.git</connection>
+        <developerConnection>scm:git:https://github.com/AndreKrebs/test-maven.git</developerConnection>
         <url>https://github.com/AndreKrebs/test-maven</url>
   </scm>
 
